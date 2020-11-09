@@ -1,0 +1,36 @@
+body {
+    background-color: #537895;
+background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+}
+.responsive {
+    max-width: 75%;
+    height: auto;
+}
+
+img {
+    padding: 1rem;
+    background: inherit;
+}
+
+.displayBox {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.scroll-box {
+    overflow-y: auto;
+    height: 500px;
+    float: left;
+    padding: 1rem;
+}
+
+ul > li {
+    padding: 6px;
+    text-transform: capitalize;
+}
+h4{
+    color: darkslategray;
+}
+.col-md-8{
+    border-radius: 30%;
+}
